@@ -85,8 +85,3 @@ This project is licensed under the MIT License.
 
 ❤️ About the Creator
 Saumya was built by [kaiisherebbg], combining code and creativity to guide you through the art of poetry.
-
-yaml
-Copy
-Edit
-
