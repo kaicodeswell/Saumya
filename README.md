@@ -6,13 +6,13 @@
 
 ## ✨ Features
 
-- 🎨 Choose from multiple poetic **themes**: Love, Nature, Hope, Dreams, and more.
-- ✍️ Generates a **starting line** from the selected theme.
-- 💡 Offers **rhyming word suggestions** to help maintain flow.
-- 🔁 Interactively write your poem line by line.
-- 🧠 Smart detection of **rhyme groups** to encourage consistent sound.
-- 🛑 Type `"end"` anytime to finish your poem.
-- 💾 Option to **save your poem** as a `.txt` file.
+- 🎨 Choose from multiple poetic themes: Love, Nature, Hope, Dreams, and more.  
+- ✍️ Generates a starting line from the selected theme.  
+- 💡 Offers rhyming word suggestions to help maintain flow.  
+- 🔁 Interactively write your poem line by line.  
+- 🧠 Smart detection of rhyme groups to encourage consistent sound.  
+- 🛑 Type `"end"` anytime to finish your poem.  
+- 💾 Option to save your poem as a `.txt` file.  
 
 ---
 
@@ -36,7 +36,7 @@ Edit
 
 ## 🛠️ How to Use
 
-1. **Clone this repository**:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/kaiisherebbg/saumya.git
    cd saumya
@@ -45,7 +45,7 @@ Run the script:
 bash
 Copy
 Edit
-python saumya.ai
+python saumya.py
 Interact with the app:
 
 Choose or let Saumya randomly select a theme.
@@ -90,4 +90,3 @@ yaml
 Copy
 Edit
 
----
