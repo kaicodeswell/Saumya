@@ -44,35 +44,29 @@ Edit
    cd saumya
 Run the script:
 
-bash
+- bash
+- Copy
+- Edit
+- python saumya.py
 
-Copy
+# Interact with the app:
 
-Edit
+- Choose or let Saumya randomly select a theme.
+- Write each line interactively.
+- Follow rhyme suggestions.
+- End with "end" and save your poem if you want.
 
-python saumya.py
-
-Interact with the app:
-
-Choose or let Saumya randomly select a theme.
-
-Write each line interactively.
-
-Follow rhyme suggestions.
-
-End with "end" and save your poem if you want.
-
-📁 Output
+#📁 Output
 
 At the end, you’ll be asked if you want to save your poem. If yes, it will be saved as a .txt file with your chosen filename in the same folder.
 
-🔧 Requirements
+# 🔧 Requirements
 
-Python 3.x
+- Python 3.x
 
-No external packages needed
+- No external packages needed
 
-Uses only built-in libraries: random, string
+- Uses only built-in libraries: random, string
 
 💡 Future Plans
 
