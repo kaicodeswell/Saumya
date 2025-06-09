@@ -29,7 +29,9 @@
 💡 Other rhymes: time, rhyme, prime, chime
 
 yaml
+
 Copy
+
 Edit
 
 ---
@@ -43,9 +45,13 @@ Edit
 Run the script:
 
 bash
+
 Copy
+
 Edit
+
 python saumya.py
+
 Interact with the app:
 
 Choose or let Saumya randomly select a theme.
@@ -57,9 +63,11 @@ Follow rhyme suggestions.
 End with "end" and save your poem if you want.
 
 📁 Output
+
 At the end, you’ll be asked if you want to save your poem. If yes, it will be saved as a .txt file with your chosen filename in the same folder.
 
 🔧 Requirements
+
 Python 3.x
 
 No external packages needed
@@ -67,20 +75,23 @@ No external packages needed
 Uses only built-in libraries: random, string
 
 💡 Future Plans
-🔍 Expand theme, starter lines, and rhyme libraries using OpenAI and internet-sourced datasets
 
-🖥️ Add GUI (Tkinter/Streamlit) or Web version
+- 🔍 Expand theme, starter lines, and rhyme libraries using OpenAI and internet-sourced datasets
 
-🎼 Live syllable/meter detector
+- 🖥️ Add GUI (Tkinter/Streamlit) or Web version
 
-🌐 Integration with rhyme APIs (e.g., Datamuse or RhymeZone)
+- 🎼 Live syllable/meter detector
 
-📤 Feature to share poems or generate feedback via OpenAI
+- 🌐 Integration with rhyme APIs (e.g., Datamuse or RhymeZone)
+
+- 📤 Feature to share poems or generate feedback via OpenAI
 
 🤝 Contributing
+
 Pull requests are welcome! If you’d like to contribute new themes, rhyme groups, or features, feel free to fork the repo and submit changes.
 
 📜 License
+
 This project is licensed under the MIT License.
 
 ❤️ About the Creator
