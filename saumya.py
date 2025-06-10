@@ -1,6 +1,16 @@
 import random
 import string
 
+greetings = [
+    "🌸 Hello, I'm Saumya — your AI poetry companion!",
+    "🖋️ Welcome! Saumya is here to help you weave words into wonder.",
+    "💫 Ready to create magic? Saumya’s got your back!",
+    "🎨 Hey there, poet! Let’s paint with words — together."
+]
+
+print(random.choice(greetings))
+print("✨ I'll help you write a poem, one beautiful line at a time.\n")
+
 # Themes with starter lines
 themes = {
     "Love": [
