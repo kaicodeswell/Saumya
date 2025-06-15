@@ -40,7 +40,7 @@ Edit
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/kaiisherebbg/saumya.git
+   git clone https://github.com/kaicodeswell/saumya.git
    cd saumya
 Run the script:
 
