@@ -28,11 +28,6 @@
 ✅ Nice! Your line rhymes well.
 💡 Other rhymes: time, rhyme, prime, chime
 
-yaml
-
-Copy
-
-Edit
 
 ---
 
@@ -44,10 +39,8 @@ Edit
    cd saumya
 Run the script:
 
-- bash
-- Copy
-- Edit
-- python saumya.py
+
+` python saumya.py`
 
 # Interact with the app:
 
